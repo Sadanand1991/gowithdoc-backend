@@ -1,0 +1,16 @@
+{
+    "db": {
+        "write": {
+            "host": "localhost",
+            "user": "root",
+            "password": "",
+            "database": "gowithdoc"
+        },
+        "read": {
+            "host": "localhost",
+            "user": "root",
+            "password": "",
+            "database": "gowithdoc"
+        }
+    }
+}
